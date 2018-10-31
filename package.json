@@ -15,7 +15,7 @@
     "Starterkit"
   ],
   "author": "Lawrence Meckan",
-  "license": "MIT",
+  "license": "BSD",
   "bugs": {
     "url": "https://github.com/absalomedia/starterkit-mustache-pure/issues"
   },
