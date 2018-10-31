@@ -3,7 +3,7 @@
 	"description":      "The Mustache-based Pure CSS StarterKit for Pattern Lab.",
 	"keywords":         ["mustache", "pattern lab", "starterkit", "purecss"],
 	"homepage":         "http://patternlab.io",
-	"license":          "MIT",
+	"license":          "BSD",
 	"type":             "patternlab-starterkit",
 	"authors": [
 		{
