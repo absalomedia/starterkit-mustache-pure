@@ -1,27 +1,22 @@
 {
-	"name":             "pattern-lab/starterkit-mustache-foundation",
-	"description":      "The Mustache-based Foundation StarterKit for Pattern Lab.",
-	"keywords":         ["mustache", "pattern lab", "starterkit", "foundation"],
+	"name":             "absalomedia/starterkit-mustache-pure",
+	"description":      "The Mustache-based Pure CSS StarterKit for Pattern Lab.",
+	"keywords":         ["mustache", "pattern lab", "starterkit", "purecss"],
 	"homepage":         "http://patternlab.io",
 	"license":          "MIT",
 	"type":             "patternlab-starterkit",
 	"authors": [
 		{
-			"name":         "Dave Olsen",
-			"email":        "dmolsen@gmail.com",
-			"homepage":     "http://dmolsen.com",
-			"role":         "Lead Developer"
+			"name":         "Lawrence Meckan",
+			"email":        "media@absalom.biz",
+			"homepage":     "http://absalom.biz",
+			"role":         "Creator & Developer"
 		},
-		{
-			"name":         "Brad Frost",
-			"homepage":     "http://bradfrost.com",
-			"role":         "Creator"
-		}
 	],
 	"support": {
-		"issues":         "https://github.com/pattern-lab/starterkit-mustache-foundation/issues",
+		"issues":         "https://github.com/absalomedia/starterkit-mustache-pure/issues",
 		"wiki":           "http://patternlab.io/docs/",
-		"source":         "https://github.com/pattern-lab/starterkit-mustache-foundation/releases"
+		"source":         "https://github.com/absalomedia/starterkit-mustache-pure/releases"
 	},
 	"require": {
 		"pattern-lab/core": "dev-dev",
