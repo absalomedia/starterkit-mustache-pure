@@ -1,0 +1,17 @@
+language: node_js
+
+node_js: "9"
+
+before_install:
+  - phantomjs --version
+
+branches:
+  only:
+    - master
+    - dev
+
+notifications:
+  webhooks:
+    on_success: never
+    on_failure: never
+    on_start: never
