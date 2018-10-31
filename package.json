@@ -1,23 +1,23 @@
 {
-  "name": "starterkit-mustache-foundation",
+  "name": "starterkit-mustache-pure",
   "version": "0.1.1",
-  "description": "A Foundation starter kit for Pattern Lab",
+  "description": "A Pure starter kit for Pattern Lab",
   "main": "README.md",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pattern-lab/starterkit-mustache-foundation.git"
+    "url": "git+https://github.com/absalomedia/starterkit-mustache-pure.git"
   },
   "keywords": [
     "Pattern Lab",
     "Atomic Design",
     "Mustache",
-    "Foundation",
+    "PureCSS",
     "Starterkit"
   ],
-  "author": "Ian Frost",
+  "author": "Lawrence Meckan",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/pattern-lab/starterkit-mustache-foundation/issues"
+    "url": "https://github.com/absalomedia/starterkit-mustache-pure/issues"
   },
-  "homepage": "https://github.com/pattern-lab/starterkit-mustache-foundation#readme"
+  "homepage": "https://github.com/absalomedia/starterkit-mustache-pure#readme"
 }
